@@ -6,6 +6,20 @@ A modern fintech homepage designed and developed for the Fermor Frontend Develop
 
 https://fermor-homepage-rho.vercel.app
 
+## Screenshots
+
+### Desktop Homepage
+
+![Fermor Homepage](./public/fermor-homepage.png)
+
+### Product & Features
+
+![Fermor Features](./public/fermor-features.png)
+
+### Mobile Responsive Design
+
+![Fermor Mobile](./public/fermor-mobile.png)
+
 ## GitHub Repository
 
 https://github.com/rithekasenthilnathan/fermor-homepage
